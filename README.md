@@ -8,6 +8,10 @@ Annealing is a Materials Science principle (after a while, everything in CS is m
 
 ![alt text](https://raw.githubusercontent.com/pranay-venkatesh/TSP-Simulated-Annealing/master/TSPSolved.png)
 
+Here's a temperature vs energy graph:
+
+![alt tex](https://raw.githubusercontent.com/pranay-venkatesh/TSP-Simulated-Annealing/master/Graph.png)
+
 # Resources to learn Simulated Annealing (and other optimisation algorithms)
 
 I followed this course to do this project : https://www.youtube.com/playlist?list=PLea0WJq13cnCHBp2WW3jtNEEH2pPkwEKw
